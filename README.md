@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Ordinary people
 ---------------
 
-- **If** we look at history honestly, what patterns keep repeating in human systems?
-- **What** drives them to collapse, fail, and reset within **centuries to millennia**?
-- **Why** do human-designed systems so often underperform—and break down again and again?
-- **Why** can nature sustain equilibrium over **billions of years**?
-- And **how** do we design systems that can stay stable long-term the way nature does?
+**If** we look at history honestly, what patterns keep repeating in human systems?
+**What** drives them to collapse, fail, and reset within **centuries to millennia**?
+**Why** do human-designed systems so often underperform—and break down again and again?
+**Why** can nature sustain equilibrium over **billions of years**?
+And **how** do we design systems that can stay stable long-term the way nature does?
 
 * 🌍  I'm based in Bangkok , Thailand
 * ✉️  You can contact me at [unityequilibrium@gmail.com](mailto:unityequilibrium@gmail.com)
